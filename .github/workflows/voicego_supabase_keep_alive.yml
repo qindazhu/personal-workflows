@@ -1,4 +1,4 @@
-name: Supabase Keep Alive
+name: VoiceGo Supabase Keep Alive
 
 on:
   schedule:
